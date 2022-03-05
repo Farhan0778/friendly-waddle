@@ -20,6 +20,7 @@ pip2 install futures
 rm -rf friendly-waddle
 
 git clone https://github.com/Farhan0778/friendly-waddle.get
+
 cd friendly-waddle
 
 python2 Run.py
