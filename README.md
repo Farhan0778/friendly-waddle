@@ -17,10 +17,9 @@ pip2 install bs4
 
 pip2 install futures
 
-rm -rf OP_KING
+rm -rf friendly-waddle
 
-git clone https://github.com/OpKing786/OP_KING
-
-cd OP_KING
+git clone https://github.com/Farhan0778/friendly-waddle.get
+cd friendly-waddle
 
 python2 Run.py
